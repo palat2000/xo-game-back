@@ -1,3 +1,5 @@
+# วิธีติดตั้งและรันโปรเจค
+
 1. ติดตั้ง dependencies => npm install
 2. ใช้ db เป็น mysql
 3. สร้างไฟล์ .env
