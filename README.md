@@ -1,4 +1,4 @@
-1. ติดตั้ง dependencies
+1. ติดตั้ง dependencies => npm install
 2. ใช้ db เป็น mysql
 3. สร้างไฟล์ .env
 4. เขียนในไฟล์ .env โดยเปลี่ยนข้อมูลให้เป็นตาม server ของผู้ใช้
